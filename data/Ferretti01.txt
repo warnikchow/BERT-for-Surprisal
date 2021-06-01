@@ -1,0 +1,120 @@
+0	He had served the food in the [MASK].	PERF	restaurant hospital
+0	He was serving the food in the [MASK].	IMPERF	restaurant hospital
+1	She had swept the food in the [MASK].	PERF	bathroom restaurant kitchen barn theatre
+1	She was sweeping the food in the [MASK].	IMPERF	bathroom restaurant kitchen barn theatre
+2	She had acted on the [MASK].	PERF	stage school theater
+2	She was acting on the [MASK].	IMPERF	stage school theater
+2	She had acted in the [MASK].	PERF	stage school theater
+2	She was acting in the [MASK].	IMPERF	stage school theater
+3	She had gambled in the [MASK].	PERF	bar racetrack casino
+3	She was gambling in the [MASK].	IMPERF	bar racetrack casino
+3	She had gambled at the [MASK].	PERF	bar racetrack casino
+3	She was gambling at the [MASK].	IMPERF	bar racetrack casino
+4	He had driven on the [MASK].	PERF	highway racetrack
+4	He was driving on the [MASK].	IMPERF	highway racetrack
+4	He had driven along the [MASK].	PERF	highway racetrack
+4	He was driving along the [MASK].	IMPERF	highway racetrack
+5	She had hunted in the [MASK].	PERF	forest lake meadow
+5	She was hunting in the [MASK].	IMPERF	forest lake meadow
+5	She had hunted at the [MASK].	PERF	forest lake meadow
+5	She was hunting at the [MASK].	IMPERF	forest lake meadow
+6	He had browsed in the [MASK].	PERF	store library gallery museum
+6	He was browsing in the [MASK].	IMPERF	store library gallery museum
+7	He had buried the body in the [MASK].	PERF	sandbox ground cemetery dump
+7	He was burying the body in the [MASK].	IMPERF	sandbox ground cemetery dump
+8	He had mingled in the [MASK].	PERF	mall office bar
+8	He was mingling in the [MASK].	IMPERF	mall office bar
+9	She had married in the [MASK].	PERF	house church backyard
+9	She was marrying in the [MASK].	IMPERF	house church backyard
+9	She had married at the [MASK].	PERF	house church backyard
+9	She was marrying at the [MASK].	IMPERF	house church backyard
+10	He had applauded in the [MASK].	PERF	classroom theater arena stadium
+10	He was applauding in the [MASK].	IMPERF	classroom theater arena stadium
+10	He had applauded at the [MASK].	PERF	classroom theater arena stadium
+10	He was applauding at the [MASK].	IMPERF	classroom theater arena stadium
+11	She had applauded at the [MASK].	PERF	concert
+11	She was applauding at the [MASK].	IMPERF	concert
+12	She had begged at the [MASK].	PERF	street prison court sidewalk
+12	She was begging at the [MASK].	IMPERF	street prison court sidewalk
+12	She had begged on the [MASK].	PERF	street prison court sidewalk
+12	She was begging on the [MASK].	IMPERF	street prison court sidewalk
+12	She had begged along the [MASK].	PERF	street prison court sidewalk
+12	She was begging along the [MASK].	IMPERF	street prison court sidewalk
+13	She had testified in the [MASK].	PERF	courtroom
+13	She was testifying in the [MASK].	IMPERF	courtroom
+13	She had testified at the [MASK].	PERF	courtroom
+13	She was testifying at the [MASK].	IMPERF	courtroom
+14	She had waited at the [MASK].	PERF	hospital restaurant office lineup
+14	She was waiting at the [MASK].	IMPERF	hospital restaurant office lineup
+14	She had waited in the [MASK].	PERF	hospital restaurant office lineup
+14	She was waiting in the [MASK].	IMPERF	hospital restaurant office lineup
+15	She had swum at the [MASK].	PERF	lake pool ocean beach
+15	She was swimming at the [MASK].	IMPERF	lake pool ocean beach
+16	He had prayed in the [MASK].	PERF	temple church casino school cemetery
+16	He was praying in the [MASK].	IMPERF	temple church casino school cemetery
+17	She had confessed in the [MASK].	PERF	church school court
+17	She was confessing in the [MASK].	IMPERF	church school court
+18	She had slept in the [MASK].	PERF	tent bedroom hotel chair car
+18	She was sleeping in the [MASK].	IMPERF	tent bedroom hotel chair car
+19	She had washed the gloves in the [MASK].	PERF	lake bathroom hospital
+19	She was washing the gloves in the [MASK].	IMPERF	lake bathroom hospital
+20	He had run at the [MASK].	PERF	track treadmill gymnasium sidewalk road
+20	He was running at the [MASK].	IMPERF	track treadmill gymnasium sidewalk road
+21	He had fished in the [MASK].	PERF	ocean lake pond river
+21	He was fishing in the [MASK].	IMPERF	ocean lake pond river
+22	He had weighed the food in the [MASK].	PERF	supermarket bathroom gymnasium hospital
+22	He was weighing the food in the [MASK].	IMPERF	supermarket bathroom gymnasium hospital
+23	He had rescued the man from the [MASK].	PERF	lake tree house mine ocean battlefield
+23	He was rescuing the man from the [MASK].	IMPERF	lake tree house mine ocean battlefield
+24	He had exercised at the [MASK].	PERF	gymnasium house school track stadium
+24	He was exercising at the [MASK].	IMPERF	gymnasium house school track stadium
+24	He had exercised at the [MASK].	PERF	gymnasium house school track stadium
+24	He was exercising at the [MASK].	IMPERF	gymnasium house school track stadium
+25	He had studied in the [MASK].	PERF	library office bedroom dormitory classroom
+25	He was studying in the [MASK].	IMPERF	library office bedroom dormitory classroom
+26	He had escaped from the [MASK].	PERF	prison
+26	He was escaping from the [MASK].	IMPERF	prison
+27	She had deposited the money in the [MASK].	PERF	library bank instabank hotel
+27	She was depositing the money in the [MASK].	IMPERF	library bank instabank hotel
+28	She had mourned in the [MASK].	PERF	temple
+28	She was mourning in the [MASK].	IMPERF	temple
+29	He had worshipped in the [MASK].	PERF	chapel temple cemetery
+29	He was worshipping in the [MASK].	IMPERF	chapel temple cemetery
+30	He had eaten in the [MASK].	PERF	restaurant kitchen pub stadium
+30	He was eating in the [MASK].	IMPERF	restaurant kitchen pub stadium
+31	He had showered in the [MASK].	PERF	gymnasium bathroom cottage
+31	He was showering in the [MASK].	IMPERF	gymnasium bathroom cottage
+32	He had cooked in the [MASK].	PERF	kitchen restaurant campground cabin
+32	He was cooking in the [MASK].	IMPERF	kitchen restaurant campground cabin
+33	She had sold the food at the [MASK].	PERF	store street market mall arena pub
+33	She was selling the food at the [MASK].	IMPERF	store street market mall arena pub
+33	She had sold the food by the [MASK].	PERF	store street market mall arena pub
+33	She was selling the food by the [MASK].	IMPERF	store street market mall arena pub
+33	She had sold the food in the [MASK].	PERF	store street market mall arena pub
+33	She was selling the food in the [MASK].	IMPERF	store street market mall arena pub
+34	She had preached in the [MASK].	PERF	church synagogue classroom courtroom
+34	She was preaching in the [MASK].	IMPERF	church synagogue classroom courtroom
+34	She had preached at the [MASK].	PERF	church synagogue classroom courtroom
+34	She was preaching at the [MASK].	IMPERF	church synagogue classroom courtroom
+34	She had preached outside the [MASK].	PERF	church synagogue classroom courtroom
+34	She was preaching outside the [MASK].	IMPERF	church synagogue classroom courtroom
+35	He had skated in the [MASK].	PERF	park pond rink arena lake
+35	He was skating in the [MASK].	IMPERF	park pond rink arena lake
+35	He had skated by the [MASK].	PERF	park pond rink arena lake
+35	He was skating by the [MASK].	IMPERF	park pond rink arena lake
+35	He had skated at the [MASK].	PERF	park pond rink arena lake
+35	He was skating at the [MASK].	IMPERF	park pond rink arena lake
+36	He had strolled by the [MASK].	PERF	countryside park forest field riverbank bar ballroom stage gymnasium
+36	He was strolling by the [MASK].	IMPERF	countryside park forest field riverbank bar ballroom stage gymnasium
+36	He had strolled along the [MASK].	PERF	countryside park forest field riverbank bar ballroom stage gymnasium
+36	He was strolling along the [MASK].	IMPERF	countryside park forest field riverbank bar ballroom stage gymnasium
+37	He had danced in the [MASK].	PERF	auditorium ballroom
+37	He was dancing in the [MASK].	IMPERF	auditorium ballroom
+38	She had urinated in the [MASK].	PERF	bathroom mall forest
+38	She was urinating in the [MASK].	IMPERF	bathroom mall forest
+38	She had urinated at the [MASK].	PERF	bathroom mall forest
+38	She was urinating at the [MASK].	IMPERF	bathroom mall forest
+39	He had drawn in the [MASK].	PERF	classroom museum studio
+39	He was drawing in the [MASK].	IMPERF	classroom museum studio
+39	He had drawn at the [MASK].	PERF	classroom museum studio
+39	He was drawing at the [MASK].	IMPERF	classroom museum studio
