@@ -15,7 +15,7 @@ Python Implementation of ``Modeling the Influence of Verb Aspect on the Activati
 6. Check the results folder
 
 ## QA
-If any questions for the implementation, please contact [Won Ik Cho](tsatsuki@snu.ac.kr).
+If any questions for the implementation, please contact Won Ik Cho tsatsuki@snu.ac.kr
 
 ## Citation
 To be added later.
